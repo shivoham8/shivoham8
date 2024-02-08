@@ -23,7 +23,7 @@
 </p>
 
 ## Support
-Now you can buy me a coffee!
+Now you can buy me a coffee! <br>
 <a href="https://www.buymeacoffee.com/Ajay.Gupta" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ajay.Gupta&button_colour=ffe2d6&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
