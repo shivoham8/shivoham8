@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ajaygupta230085@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vuhqQf_17aqFAg3lDIRkynGRD_r14E5G/view?usp=sharing](https://drive.google.com/file/d/1vuhqQf_17aqFAg3lDIRkynGRD_r14E5G/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eQIC_kQgD_UEomlfmta3GbWcVkwfnzHn/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
