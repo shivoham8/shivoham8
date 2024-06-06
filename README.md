@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imajaygupta10" target="blank"><img src="https://img.shields.io/twitter/follow/imajaygupta10?logo=twitter&style=for-the-badge" alt="imajaygupta10" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ajay-gupta.netlify.app](https://portfolio-ajay-gupta.netlify.app)
 
